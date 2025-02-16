@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ryotarofr/ryotarofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a web frontend and backend developer from Japan
 
-Here are some ideas to get you started:
+2. My favorites are Typescript, Rust, Nix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ryotarofr&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=typescript,rust,nix" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,axum,dioxus,nixvim" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,linux,aws,azure,nginx" /> <br /><br />
