@@ -16,4 +16,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,linux,aws,azure,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,linux,aws,azure,nginx" /> <br /><br />
