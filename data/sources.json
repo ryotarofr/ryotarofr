@@ -1,0 +1,5 @@
+[
+  {"repo": "ryotarofr/cf", "technologies": ["bevy-lightyear"]},
+  {"repo": "ryotarofr/drop", "technologies": ["tauri-slint-dioxus"]},
+  {"repo": "ryotarofr/insect_app", "technologies": ["axum", "solidjs-vite", "postgresql-docker"]}
+]

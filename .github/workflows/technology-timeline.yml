@@ -1,0 +1,63 @@
+name: Technology timeline
+
+on:
+  schedule:
+    - cron: '17 21 * * *' # 毎日 06:17 JST
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/technology-timeline.yml'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'data/**'
+      - 'assets/2026/**'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: technology-timeline-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13'
+      - run: python -m unittest discover -s tests -v
+      - run: |
+          python scripts/update_timeline.py --offline
+          git diff --exit-code -- assets/2026/overview.svg assets/2026/overview-dark.svg data/2026-activity.json
+
+  update:
+    if: github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13'
+      - name: Fetch commits and generate SVGs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_READ_TOKEN: ${{ secrets.PROFILE_READ_TOKEN }}
+          TIMELINE_SOURCES_JSON: ${{ secrets.TIMELINE_SOURCES_JSON }}
+        run: python scripts/update_timeline.py
+      - name: Publish changed activity
+        run: |
+          git add assets/2026/overview.svg assets/2026/overview-dark.svg data/2026-activity.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: update technology timeline'
+          git push
