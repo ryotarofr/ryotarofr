@@ -1,0 +1,323 @@
+{
+  "year": 2026,
+  "author": "ryotarofr",
+  "through": "2026-10-14",
+  "groups": [
+    {
+      "name": "ゲーム・3D",
+      "rows": [
+        {
+          "id": "godot",
+          "name": "Godot 4.7",
+          "weeks": [
+            35,
+            36,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "id": "bevy-lightyear",
+          "name": "Bevy / lightyear",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            10,
+            13,
+            20,
+            22
+          ]
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "weeks": [
+            38,
+            39,
+            40,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rust",
+      "rows": [
+        {
+          "id": "topcoat",
+          "name": "Topcoat",
+          "weeks": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "leptos-wgpu",
+          "name": "Leptos / wgpu",
+          "weeks": [
+            10,
+            11,
+            12,
+            13,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "axum",
+          "name": "Axum",
+          "weeks": [
+            3,
+            5,
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            20,
+            24,
+            25,
+            28,
+            29
+          ]
+        },
+        {
+          "id": "tauri-slint-dioxus",
+          "name": "Tauri / Slint / Dioxus",
+          "weeks": [
+            2,
+            3,
+            5,
+            6,
+            7,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Web・API",
+      "rows": [
+        {
+          "id": "solidjs-vite",
+          "name": "SolidJS / Vite",
+          "weeks": [
+            3,
+            5,
+            6,
+            7,
+            16,
+            17,
+            18,
+            19,
+            20,
+            24,
+            28,
+            29
+          ]
+        },
+        {
+          "id": "nextjs-drizzle",
+          "name": "Next.js / Drizzle",
+          "weeks": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "astro",
+          "name": "Astro",
+          "weeks": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            24,
+            28,
+            29,
+            38,
+            39
+          ]
+        },
+        {
+          "id": "threejs",
+          "name": "three.js",
+          "weeks": [
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "weeks": null
+        }
+      ]
+    },
+    {
+      "name": "インフラ・DB",
+      "rows": [
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "weeks": [
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "id": "postgresql-docker",
+          "name": "PostgreSQL / Docker",
+          "weeks": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            20,
+            24,
+            25,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "sakura-vps",
+          "name": "さくらのVPS",
+          "weeks": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "vercel-neon",
+          "name": "Vercel / Neon",
+          "weeks": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "aws-lambda-cognito",
+          "name": "AWS Lambda / Cognito",
+          "weeks": null
+        },
+        {
+          "id": "terraform",
+          "name": "Terraform",
+          "weeks": null
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "rows": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "weeks": [
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            24,
+            25,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "id": "gemini-seedance",
+          "name": "Gemini / Seedance",
+          "weeks": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "tripo3d",
+          "name": "Tripo 3D",
+          "weeks": [
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "azure-openai-search",
+          "name": "Azure OpenAI / AI Search",
+          "weeks": null
+        }
+      ]
+    }
+  ]
+}

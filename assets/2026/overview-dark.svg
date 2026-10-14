@@ -1,0 +1,1023 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="666" viewBox="0 0 800 666" role="img" aria-labelledby="title desc">
+<title id="title">2026 使った技術と活動時期</title>
+<desc id="desc">1マスは月曜始まりの1週。技術を使うリポジトリに本人のコミットがあった週を表示。点は集計対象外・未確認。履歴だけで期間を特定できない技術は時期未確認。</desc>
+<rect width="800" height="666" rx="10" fill="#0d1117"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK JP, Noto Sans JP, Meiryo, sans-serif">
+<text x="20" y="32" font-size="18" fill="#79aef8" >2026</text>
+<text x="75" y="32" font-size="18" fill="#e5edf6" >使った技術と活動時期</text>
+<text x="780" y="31" font-size="11" fill="#a8b5c7" text-anchor="end">1/1–10/15</text>
+<text x="20" y="59" font-size="11" fill="#a8b5c7" >1マス＝1週</text>
+<text x="324.0" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">1月</text>
+<text x="364.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">2月</text>
+<text x="400.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">3月</text>
+<text x="441.0" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">4月</text>
+<text x="481.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">5月</text>
+<text x="517.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">6月</text>
+<text x="558.0" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">7月</text>
+<text x="598.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">8月</text>
+<text x="634.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">9月</text>
+<text x="675.0" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">10月</text>
+<text x="715.5" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">11月</text>
+<text x="756.0" y="59" font-size="10" fill="#a8b5c7" text-anchor="middle">12月</text>
+<path d="M20 70H780" stroke="#2b394b"/>
+<text x="20" y="92" font-size="11" fill="#a8b5c7" >ゲーム・3D</text>
+<text x="112" y="92" font-size="12" fill="#e5edf6" >Godot 4.7</text>
+<rect x="302" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="84" width="8" height="8" rx="1" fill="#79aef8"><title>Godot 4.7・8/31–9/6：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="626" y="84" width="8" height="8" rx="1" fill="#79aef8"><title>Godot 4.7・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="84" width="8" height="8" rx="1" fill="#202d40"><title>Godot 4.7・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="84" width="8" height="8" rx="1" fill="#79aef8"><title>Godot 4.7・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="84" width="8" height="8" rx="1" fill="#79aef8"><title>Godot 4.7・9/28–10/4：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="662" y="84" width="8" height="8" rx="1" fill="#79aef8"><title>Godot 4.7・10/5–10/11：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="671" y="84" width="8" height="8" rx="1" fill="#79aef8"><title>Godot 4.7・10/12–10/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="88" r="1.5" fill="#2b394b"><title>Godot 4.7・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="114" font-size="12" fill="#e5edf6" >Bevy / lightyear</text>
+<rect x="302" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・1/1–1/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="311" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・1/5–1/11：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="320" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・1/12–1/18：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="329" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・1/19–1/25：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="338" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・1/26–2/1：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="347" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・2/2–2/8：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="356" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・2/9–2/15：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="365" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・2/16–2/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="374" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・2/23–3/1：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="383" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・3/2–3/8：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="392" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・3/9–3/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="401" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・3/16–3/22：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="410" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・3/23–3/29：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="419" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・3/30–4/5：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="428" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・4/6–4/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="437" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・4/13–4/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="446" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・4/20–4/26：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="455" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・4/27–5/3：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="464" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・5/4–5/10：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="473" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・5/11–5/17：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="482" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・5/18–5/24：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="491" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・5/25–5/31：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="500" y="106" width="8" height="8" rx="1" fill="#79aef8"><title>Bevy / lightyear・6/1–6/7：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="509" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・6/8–6/14：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="518" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・6/15–6/21：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="527" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・6/22–6/28：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="536" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・6/29–7/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="545" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・7/6–7/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="554" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・7/13–7/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="563" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・7/20–7/26：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="572" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・7/27–8/2：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="581" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・8/3–8/9：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="590" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・8/10–8/16：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="599" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・8/17–8/23：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="608" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・8/24–8/30：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="617" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・8/31–9/6：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="626" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・9/7–9/13：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="635" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・9/14–9/20：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="644" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・9/21–9/27：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="653" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・9/28–10/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="662" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・10/5–10/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="671" y="106" width="8" height="8" rx="1" fill="#202d40"><title>Bevy / lightyear・10/12–10/18：記録なし（2026-10-15まで確認）</title></rect>
+<circle cx="684" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="110" r="1.5" fill="#2b394b"><title>Bevy / lightyear・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="136" font-size="12" fill="#e5edf6" >Blender</text>
+<rect x="302" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・9/7–9/13：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="635" y="128" width="8" height="8" rx="1" fill="#202d40"><title>Blender・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="128" width="8" height="8" rx="1" fill="#79aef8"><title>Blender・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="128" width="8" height="8" rx="1" fill="#79aef8"><title>Blender・9/28–10/4：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="662" y="128" width="8" height="8" rx="1" fill="#79aef8"><title>Blender・10/5–10/11：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="671" y="128" width="8" height="8" rx="1" fill="#79aef8"><title>Blender・10/12–10/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="132" r="1.5" fill="#2b394b"><title>Blender・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="132" r="1.5" fill="#2b394b"><title>Blender・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="132" r="1.5" fill="#2b394b"><title>Blender・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="132" r="1.5" fill="#2b394b"><title>Blender・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="132" r="1.5" fill="#2b394b"><title>Blender・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="132" r="1.5" fill="#2b394b"><title>Blender・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="132" r="1.5" fill="#2b394b"><title>Blender・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="132" r="1.5" fill="#2b394b"><title>Blender・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="132" r="1.5" fill="#2b394b"><title>Blender・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="132" r="1.5" fill="#2b394b"><title>Blender・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="132" r="1.5" fill="#2b394b"><title>Blender・12/28–12/31：集計対象外・未確認</title></circle>
+<path d="M20 152H780" stroke="#2b394b"/>
+<text x="20" y="174" font-size="11" fill="#a8b5c7" >Rust</text>
+<text x="112" y="174" font-size="12" fill="#e5edf6" >Topcoat</text>
+<rect x="302" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・7/20–7/26：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="572" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・7/27–8/2：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="581" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・8/3–8/9：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="590" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・8/10–8/16：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="599" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・8/17–8/23：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="608" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・8/24–8/30：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="617" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・8/31–9/6：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="626" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・9/14–9/20：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="644" y="166" width="8" height="8" rx="1" fill="#79aef8"><title>Topcoat・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="166" width="8" height="8" rx="1" fill="#202d40"><title>Topcoat・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="170" r="1.5" fill="#2b394b"><title>Topcoat・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="196" font-size="12" fill="#e5edf6" >Leptos / wgpu</text>
+<rect x="302" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="188" width="8" height="8" rx="1" fill="#79aef8"><title>Leptos / wgpu・3/9–3/15：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="401" y="188" width="8" height="8" rx="1" fill="#79aef8"><title>Leptos / wgpu・3/16–3/22：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="410" y="188" width="8" height="8" rx="1" fill="#79aef8"><title>Leptos / wgpu・3/23–3/29：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="419" y="188" width="8" height="8" rx="1" fill="#79aef8"><title>Leptos / wgpu・3/30–4/5：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="428" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="188" width="8" height="8" rx="1" fill="#79aef8"><title>Leptos / wgpu・6/15–6/21：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="527" y="188" width="8" height="8" rx="1" fill="#79aef8"><title>Leptos / wgpu・6/22–6/28：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="536" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・9/7–9/13：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="635" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・9/21–9/27：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="653" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="188" width="8" height="8" rx="1" fill="#202d40"><title>Leptos / wgpu・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="192" r="1.5" fill="#2b394b"><title>Leptos / wgpu・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="218" font-size="12" fill="#e5edf6" >Axum</text>
+<rect x="302" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・1/1–1/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="311" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・1/5–1/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="320" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・1/12–1/18：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="329" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・1/19–1/25：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="338" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・1/26–2/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="347" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・2/2–2/8：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="356" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・2/9–2/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="365" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・2/16–2/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="374" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・2/23–3/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="383" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・3/2–3/8：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="392" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・3/9–3/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="401" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・3/16–3/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="410" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・3/23–3/29：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="419" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・3/30–4/5：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="428" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・4/6–4/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="437" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・4/13–4/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="446" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・4/20–4/26：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="455" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・4/27–5/3：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="464" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・5/4–5/10：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="473" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・5/11–5/17：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="482" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・5/18–5/24：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="491" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・5/25–5/31：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="500" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・6/1–6/7：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="509" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・6/8–6/14：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="518" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・6/15–6/21：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="527" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・6/22–6/28：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="536" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・6/29–7/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="545" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・7/6–7/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="554" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・7/13–7/19：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="563" y="210" width="8" height="8" rx="1" fill="#79aef8"><title>Axum・7/20–7/26：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="572" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・7/27–8/2：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="581" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・8/3–8/9：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="590" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・8/10–8/16：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="599" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・8/17–8/23：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="608" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・8/24–8/30：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="617" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・8/31–9/6：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="626" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・9/7–9/13：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="635" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・9/14–9/20：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="644" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・9/21–9/27：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="653" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・9/28–10/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="662" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・10/5–10/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="671" y="210" width="8" height="8" rx="1" fill="#202d40"><title>Axum・10/12–10/18：記録なし（2026-10-15まで確認）</title></rect>
+<circle cx="684" cy="214" r="1.5" fill="#2b394b"><title>Axum・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="214" r="1.5" fill="#2b394b"><title>Axum・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="214" r="1.5" fill="#2b394b"><title>Axum・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="214" r="1.5" fill="#2b394b"><title>Axum・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="214" r="1.5" fill="#2b394b"><title>Axum・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="214" r="1.5" fill="#2b394b"><title>Axum・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="214" r="1.5" fill="#2b394b"><title>Axum・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="214" r="1.5" fill="#2b394b"><title>Axum・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="214" r="1.5" fill="#2b394b"><title>Axum・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="214" r="1.5" fill="#2b394b"><title>Axum・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="214" r="1.5" fill="#2b394b"><title>Axum・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="240" font-size="12" fill="#e5edf6" >Tauri / Slint / Dioxus</text>
+<rect x="302" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・1/1–1/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="311" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・1/5–1/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="320" y="232" width="8" height="8" rx="1" fill="#79aef8"><title>Tauri / Slint / Dioxus・1/12–1/18：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="329" y="232" width="8" height="8" rx="1" fill="#79aef8"><title>Tauri / Slint / Dioxus・1/19–1/25：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="338" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・1/26–2/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="347" y="232" width="8" height="8" rx="1" fill="#79aef8"><title>Tauri / Slint / Dioxus・2/2–2/8：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="356" y="232" width="8" height="8" rx="1" fill="#79aef8"><title>Tauri / Slint / Dioxus・2/9–2/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="365" y="232" width="8" height="8" rx="1" fill="#79aef8"><title>Tauri / Slint / Dioxus・2/16–2/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="374" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・2/23–3/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="383" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・3/2–3/8：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="392" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・3/9–3/15：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="401" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・3/16–3/22：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="410" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・3/23–3/29：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="419" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・3/30–4/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="428" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・4/6–4/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="437" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・4/13–4/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="446" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・4/20–4/26：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="455" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・4/27–5/3：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="464" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・5/4–5/10：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="473" y="232" width="8" height="8" rx="1" fill="#79aef8"><title>Tauri / Slint / Dioxus・5/11–5/17：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="482" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・5/18–5/24：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="491" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・5/25–5/31：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="500" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・6/1–6/7：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="509" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・6/8–6/14：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="518" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・6/15–6/21：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="527" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・6/22–6/28：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="536" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・6/29–7/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="545" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・7/6–7/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="554" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・7/13–7/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="563" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・7/20–7/26：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="572" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・7/27–8/2：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="581" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・8/3–8/9：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="590" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・8/10–8/16：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="599" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・8/17–8/23：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="608" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・8/24–8/30：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="617" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・8/31–9/6：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="626" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・9/7–9/13：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="635" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・9/14–9/20：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="644" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・9/21–9/27：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="653" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・9/28–10/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="662" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・10/5–10/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="671" y="232" width="8" height="8" rx="1" fill="#202d40"><title>Tauri / Slint / Dioxus・10/12–10/18：記録なし（2026-10-15まで確認）</title></rect>
+<circle cx="684" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="236" r="1.5" fill="#2b394b"><title>Tauri / Slint / Dioxus・12/28–12/31：集計対象外・未確認</title></circle>
+<path d="M20 256H780" stroke="#2b394b"/>
+<text x="20" y="278" font-size="11" fill="#a8b5c7" >Web・API</text>
+<text x="112" y="278" font-size="12" fill="#e5edf6" >SolidJS / Vite</text>
+<rect x="302" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・1/1–1/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="311" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・1/5–1/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="320" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・1/12–1/18：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="329" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・1/19–1/25：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="338" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・1/26–2/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="347" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・2/2–2/8：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="356" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・2/9–2/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="365" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・2/16–2/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="374" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・2/23–3/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="383" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・3/2–3/8：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="392" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・3/9–3/15：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="401" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・3/16–3/22：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="410" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・3/23–3/29：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="419" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・3/30–4/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="428" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・4/6–4/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="437" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・4/13–4/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="446" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・4/20–4/26：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="455" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・4/27–5/3：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="464" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・5/4–5/10：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="473" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・5/11–5/17：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="482" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・5/18–5/24：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="491" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・5/25–5/31：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="500" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・6/1–6/7：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="509" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・6/8–6/14：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="518" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・6/15–6/21：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="527" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・6/22–6/28：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="536" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・6/29–7/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="545" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・7/6–7/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="554" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・7/13–7/19：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="563" y="270" width="8" height="8" rx="1" fill="#79aef8"><title>SolidJS / Vite・7/20–7/26：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="572" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・7/27–8/2：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="581" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・8/3–8/9：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="590" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・8/10–8/16：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="599" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・8/17–8/23：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="608" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・8/24–8/30：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="617" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・8/31–9/6：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="626" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・9/7–9/13：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="635" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・9/14–9/20：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="644" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・9/21–9/27：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="653" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・9/28–10/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="662" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・10/5–10/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="671" y="270" width="8" height="8" rx="1" fill="#202d40"><title>SolidJS / Vite・10/12–10/18：記録なし（2026-10-15まで確認）</title></rect>
+<circle cx="684" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="274" r="1.5" fill="#2b394b"><title>SolidJS / Vite・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="300" font-size="12" fill="#e5edf6" >Next.js / Drizzle</text>
+<rect x="302" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="292" width="8" height="8" rx="1" fill="#79aef8"><title>Next.js / Drizzle・1/5–1/11：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="320" y="292" width="8" height="8" rx="1" fill="#79aef8"><title>Next.js / Drizzle・1/12–1/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="329" y="292" width="8" height="8" rx="1" fill="#79aef8"><title>Next.js / Drizzle・1/19–1/25：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="338" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・9/7–9/13：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="635" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・9/21–9/27：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="653" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="292" width="8" height="8" rx="1" fill="#202d40"><title>Next.js / Drizzle・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="296" r="1.5" fill="#2b394b"><title>Next.js / Drizzle・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="322" font-size="12" fill="#e5edf6" >Astro</text>
+<rect x="302" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・4/20–4/26：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="455" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・4/27–5/3：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="464" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・5/4–5/10：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="473" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・5/11–5/17：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="482" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・5/18–5/24：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="491" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・6/15–6/21：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="527" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・7/13–7/19：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="563" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・7/20–7/26：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="572" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・9/7–9/13：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="635" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="314" width="8" height="8" rx="1" fill="#79aef8"><title>Astro・9/28–10/4：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="662" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="314" width="8" height="8" rx="1" fill="#202d40"><title>Astro・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="318" r="1.5" fill="#2b394b"><title>Astro・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="318" r="1.5" fill="#2b394b"><title>Astro・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="318" r="1.5" fill="#2b394b"><title>Astro・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="318" r="1.5" fill="#2b394b"><title>Astro・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="318" r="1.5" fill="#2b394b"><title>Astro・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="318" r="1.5" fill="#2b394b"><title>Astro・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="318" r="1.5" fill="#2b394b"><title>Astro・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="318" r="1.5" fill="#2b394b"><title>Astro・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="318" r="1.5" fill="#2b394b"><title>Astro・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="318" r="1.5" fill="#2b394b"><title>Astro・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="318" r="1.5" fill="#2b394b"><title>Astro・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="344" font-size="12" fill="#e5edf6" >three.js</text>
+<rect x="302" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="336" width="8" height="8" rx="1" fill="#79aef8"><title>three.js・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="336" width="8" height="8" rx="1" fill="#79aef8"><title>three.js・9/14–9/20：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="644" y="336" width="8" height="8" rx="1" fill="#79aef8"><title>three.js・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="336" width="8" height="8" rx="1" fill="#202d40"><title>three.js・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="340" r="1.5" fill="#2b394b"><title>three.js・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="340" r="1.5" fill="#2b394b"><title>three.js・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="340" r="1.5" fill="#2b394b"><title>three.js・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="340" r="1.5" fill="#2b394b"><title>three.js・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="340" r="1.5" fill="#2b394b"><title>three.js・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="340" r="1.5" fill="#2b394b"><title>three.js・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="340" r="1.5" fill="#2b394b"><title>three.js・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="340" r="1.5" fill="#2b394b"><title>three.js・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="340" r="1.5" fill="#2b394b"><title>three.js・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="340" r="1.5" fill="#2b394b"><title>three.js・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="340" r="1.5" fill="#2b394b"><title>three.js・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="366" font-size="12" fill="#e5edf6" >FastAPI</text>
+<text x="302" y="366" font-size="11" fill="#a8b5c7" >時期未確認</text>
+<path d="M374 362H778" stroke="#2b394b"/>
+<path d="M20 382H780" stroke="#2b394b"/>
+<text x="20" y="404" font-size="11" fill="#a8b5c7" >インフラ・DB</text>
+<text x="112" y="404" font-size="12" fill="#e5edf6" >Cloudflare</text>
+<rect x="302" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・9/7–9/13：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="635" y="396" width="8" height="8" rx="1" fill="#202d40"><title>Cloudflare・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="396" width="8" height="8" rx="1" fill="#79aef8"><title>Cloudflare・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="396" width="8" height="8" rx="1" fill="#79aef8"><title>Cloudflare・9/28–10/4：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="662" y="396" width="8" height="8" rx="1" fill="#79aef8"><title>Cloudflare・10/5–10/11：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="671" y="396" width="8" height="8" rx="1" fill="#79aef8"><title>Cloudflare・10/12–10/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="400" r="1.5" fill="#2b394b"><title>Cloudflare・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="426" font-size="12" fill="#e5edf6" >PostgreSQL / Docker</text>
+<rect x="302" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・1/1–1/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="311" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・1/5–1/11：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="320" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・1/12–1/18：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="329" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・1/19–1/25：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="338" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・1/26–2/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="347" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・2/2–2/8：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="356" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・2/9–2/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="365" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・2/16–2/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="374" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・2/23–3/1：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="383" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・3/2–3/8：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="392" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・3/9–3/15：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="401" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・3/16–3/22：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="410" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・3/23–3/29：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="419" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・3/30–4/5：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="428" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・4/6–4/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="437" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・4/13–4/19：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="446" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・4/20–4/26：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="455" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・4/27–5/3：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="464" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・5/4–5/10：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="473" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・5/11–5/17：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="482" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・5/18–5/24：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="491" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・5/25–5/31：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="500" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・6/1–6/7：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="509" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・6/8–6/14：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="518" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・6/15–6/21：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="527" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・6/22–6/28：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="536" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・6/29–7/5：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="545" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・7/6–7/12：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="554" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・7/13–7/19：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="563" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・7/20–7/26：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="572" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・7/27–8/2：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="581" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・8/3–8/9：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="590" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・8/10–8/16：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="599" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・8/17–8/23：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="608" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・8/24–8/30：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="617" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・8/31–9/6：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="626" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・9/7–9/13：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="635" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・9/14–9/20：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="644" y="418" width="8" height="8" rx="1" fill="#79aef8"><title>PostgreSQL / Docker・9/21–9/27：コミット記録あり（2026-10-15まで確認）</title></rect>
+<rect x="653" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・9/28–10/4：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="662" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・10/5–10/11：記録なし（2026-10-15まで確認）</title></rect>
+<rect x="671" y="418" width="8" height="8" rx="1" fill="#202d40"><title>PostgreSQL / Docker・10/12–10/18：記録なし（2026-10-15まで確認）</title></rect>
+<circle cx="684" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="422" r="1.5" fill="#2b394b"><title>PostgreSQL / Docker・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="448" font-size="12" fill="#e5edf6" >さくらのVPS</text>
+<rect x="302" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="440" width="8" height="8" rx="1" fill="#79aef8"><title>さくらのVPS・8/24–8/30：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="617" y="440" width="8" height="8" rx="1" fill="#79aef8"><title>さくらのVPS・8/31–9/6：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="626" y="440" width="8" height="8" rx="1" fill="#79aef8"><title>さくらのVPS・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="440" width="8" height="8" rx="1" fill="#79aef8"><title>さくらのVPS・9/14–9/20：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="644" y="440" width="8" height="8" rx="1" fill="#79aef8"><title>さくらのVPS・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="440" width="8" height="8" rx="1" fill="#202d40"><title>さくらのVPS・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="444" r="1.5" fill="#2b394b"><title>さくらのVPS・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="470" font-size="12" fill="#e5edf6" >Vercel / Neon</text>
+<rect x="302" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="462" width="8" height="8" rx="1" fill="#79aef8"><title>Vercel / Neon・1/5–1/11：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="320" y="462" width="8" height="8" rx="1" fill="#79aef8"><title>Vercel / Neon・1/12–1/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="329" y="462" width="8" height="8" rx="1" fill="#79aef8"><title>Vercel / Neon・1/19–1/25：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="338" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・9/7–9/13：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="635" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・9/14–9/20：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="644" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・9/21–9/27：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="653" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="462" width="8" height="8" rx="1" fill="#202d40"><title>Vercel / Neon・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="466" r="1.5" fill="#2b394b"><title>Vercel / Neon・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="492" font-size="12" fill="#e5edf6" >AWS Lambda / Cognito</text>
+<text x="302" y="492" font-size="11" fill="#a8b5c7" >時期未確認</text>
+<path d="M374 488H778" stroke="#2b394b"/>
+<text x="112" y="514" font-size="12" fill="#e5edf6" >Terraform</text>
+<text x="302" y="514" font-size="11" fill="#a8b5c7" >時期未確認</text>
+<path d="M374 510H778" stroke="#2b394b"/>
+<path d="M20 530H780" stroke="#2b394b"/>
+<text x="20" y="552" font-size="11" fill="#a8b5c7" >AI</text>
+<text x="112" y="552" font-size="12" fill="#e5edf6" >Claude Code</text>
+<rect x="302" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・1/12–1/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="329" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・1/19–1/25：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="338" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・2/2–2/8：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="356" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・2/9–2/15：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="365" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・2/16–2/22：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="374" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・2/23–3/1：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="383" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・3/9–3/15：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="401" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・3/16–3/22：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="410" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・3/23–3/29：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="419" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・3/30–4/5：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="428" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・6/15–6/21：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="527" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・6/22–6/28：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="536" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="544" width="8" height="8" rx="1" fill="#202d40"><title>Claude Code・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・7/20–7/26：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="572" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・7/27–8/2：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="581" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・8/3–8/9：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="590" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・8/10–8/16：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="599" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・8/17–8/23：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="608" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・8/24–8/30：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="617" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・8/31–9/6：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="626" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・9/14–9/20：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="644" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・9/28–10/4：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="662" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・10/5–10/11：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="671" y="544" width="8" height="8" rx="1" fill="#79aef8"><title>Claude Code・10/12–10/18：コミット記録あり（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="548" r="1.5" fill="#2b394b"><title>Claude Code・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="574" font-size="12" fill="#e5edf6" >Gemini / Seedance</text>
+<rect x="302" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・8/10–8/16：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="599" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・8/17–8/23：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="608" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・8/24–8/30：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="617" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・8/31–9/6：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="626" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・9/14–9/20：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="644" y="566" width="8" height="8" rx="1" fill="#79aef8"><title>Gemini / Seedance・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="566" width="8" height="8" rx="1" fill="#202d40"><title>Gemini / Seedance・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="570" r="1.5" fill="#2b394b"><title>Gemini / Seedance・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="596" font-size="12" fill="#e5edf6" >Tripo 3D</text>
+<rect x="302" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・1/1–1/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="311" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・1/5–1/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="320" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・1/12–1/18：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="329" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・1/19–1/25：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="338" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・1/26–2/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="347" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・2/2–2/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="356" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・2/9–2/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="365" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・2/16–2/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="374" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・2/23–3/1：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="383" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・3/2–3/8：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="392" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・3/9–3/15：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="401" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・3/16–3/22：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="410" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・3/23–3/29：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="419" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・3/30–4/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="428" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・4/6–4/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="437" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・4/13–4/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="446" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・4/20–4/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="455" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・4/27–5/3：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="464" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・5/4–5/10：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="473" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・5/11–5/17：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="482" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・5/18–5/24：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="491" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・5/25–5/31：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="500" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・6/1–6/7：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="509" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・6/8–6/14：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="518" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・6/15–6/21：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="527" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・6/22–6/28：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="536" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・6/29–7/5：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="545" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・7/6–7/12：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="554" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・7/13–7/19：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="563" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・7/20–7/26：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="572" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・7/27–8/2：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="581" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・8/3–8/9：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="590" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・8/10–8/16：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="599" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・8/17–8/23：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="608" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・8/24–8/30：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="617" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・8/31–9/6：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="626" y="588" width="8" height="8" rx="1" fill="#79aef8"><title>Tripo 3D・9/7–9/13：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="635" y="588" width="8" height="8" rx="1" fill="#79aef8"><title>Tripo 3D・9/14–9/20：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="644" y="588" width="8" height="8" rx="1" fill="#79aef8"><title>Tripo 3D・9/21–9/27：コミット記録あり（2026-10-14まで確認）</title></rect>
+<rect x="653" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・9/28–10/4：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="662" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・10/5–10/11：記録なし（2026-10-14まで確認）</title></rect>
+<rect x="671" y="588" width="8" height="8" rx="1" fill="#202d40"><title>Tripo 3D・10/12–10/18：記録なし（2026-10-14まで確認）</title></rect>
+<circle cx="684" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・10/19–10/25：集計対象外・未確認</title></circle>
+<circle cx="693" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・10/26–11/1：集計対象外・未確認</title></circle>
+<circle cx="702" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・11/2–11/8：集計対象外・未確認</title></circle>
+<circle cx="711" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・11/9–11/15：集計対象外・未確認</title></circle>
+<circle cx="720" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・11/16–11/22：集計対象外・未確認</title></circle>
+<circle cx="729" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・11/23–11/29：集計対象外・未確認</title></circle>
+<circle cx="738" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・11/30–12/6：集計対象外・未確認</title></circle>
+<circle cx="747" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・12/7–12/13：集計対象外・未確認</title></circle>
+<circle cx="756" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・12/14–12/20：集計対象外・未確認</title></circle>
+<circle cx="765" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・12/21–12/27：集計対象外・未確認</title></circle>
+<circle cx="774" cy="592" r="1.5" fill="#2b394b"><title>Tripo 3D・12/28–12/31：集計対象外・未確認</title></circle>
+<text x="112" y="618" font-size="12" fill="#e5edf6" >Azure OpenAI / AI Search</text>
+<text x="302" y="618" font-size="11" fill="#a8b5c7" >時期未確認</text>
+<path d="M374 614H778" stroke="#2b394b"/>
+<path d="M20 634H780" stroke="#2b394b"/>
+<rect x="20" y="649" width="8" height="8" rx="1" fill="#79aef8"/>
+<text x="35" y="657" font-size="11" fill="#a8b5c7" >コミット記録あり</text>
+<rect x="160" y="649" width="8" height="8" rx="1" fill="#202d40"/>
+<text x="175" y="657" font-size="11" fill="#a8b5c7" >記録なし</text>
+<circle cx="264" cy="653" r="1.5" fill="#2b394b"/>
+<text x="275" y="657" font-size="11" fill="#a8b5c7" >集計対象外・未確認</text>
+</g></svg>
