@@ -1,22 +1,10 @@
 <div align="center">
 
-<img src="assets/2026/hero.svg" width="800" alt="2026 年のコミットを 1 日 1 マスで並べたカレンダー。色はその日いちばん多く書いた言語。1〜7 月は Rust と Web、8 月末から GDScript（Godot）が続く。書いた行の比率は Web 33.4%、Rust 31.2%、GDScript 23.4%、Python 10.8%。合計 624 コミット、121 日、23 リポジトリ（うち非公開 16）。">
+<img src="assets/2026/overview.svg" width="800" alt="2026 年に作っていたものと使った技術を週ごとに並べた図。作っていたもの: 1〜2 月は solorium と tebiki、1〜6 月は Bevy の試作、3〜6 月は pxlot、4〜7 月は insect_app、7〜9 月は pxlot.ai、8 月末からカステリア戦記。使った技術: ゲームは Godot 4.7、Bevy と lightyear、Blender。Rust は Topcoat、Leptos と wgpu、Axum、Tauri・Slint・Dioxus。Web は SolidJS と Vite、Next.js と Drizzle、Astro、three.js。インフラは Cloudflare、PostgreSQL と Docker、さくらの VPS、Vercel と Neon。AI は Claude Code、Gemini と Seedance、Tripo 3D。書いた行の比率は Web 33%、Rust 31%、GDScript 23%、Python 11%。合計 624 コミット、121 日、23 リポジトリ（うち非公開 16）。">
 
 </div>
 
 いま手を動かしているのは `godot/cc_act`。ドット絵エディタ [pxlot.ai](https://pxlot.ai) を公開中。<sub>2026.10.14 更新</sub>
-
-### 作っていたもの
-
-<img src="assets/2026/timeline.svg" width="800" alt="プロジェクト別の週ごとのコミット数。solorium（Next.js）と tebiki（Tauri, SolidJS）が 1〜2 月、Bevy の試作が 1〜6 月、pxlot（Leptos, wgpu）が 3〜6 月、insect_app（SolidStart, Axum）が 4〜7 月、pxlot.ai（Topcoat, 生成AI）が 7〜9 月、カステリア戦記（Godot, Cloudflare Workers）が 8 月末から。">
-
-### 使った道具
-
-<img src="assets/2026/tools.svg" width="800" alt="使った技術の一覧。8〜10 月にも使ったもの: Godot 4.7, Blender, three.js, Claude Code, Gemini, Seedance, Tripo 3D, Topcoat, Astro, TypeScript 7, bun, Cloudflare Workers, D1, Durable Objects, Cloudflare Pages, PostgreSQL, Docker, さくらの VPS, GitHub Actions。7 月までで止まっているもの: Bevy, lightyear, Anthropic API, Leptos, wgpu, UniFFI, Axum, Tauri, Slint, Dioxus, SolidJS, Vite, Next.js, Vercel と Neon。業務: AWS Lambda, API Gateway, Cognito, Azure OpenAI, Azure AI Search, Terraform, FastAPI, React。">
-
-### 2027 年へ
-
-<img src="assets/2026/next.svg" width="800" alt="書いた行の比率を 1〜4 月と 8〜10 月で比べると、Web 54%→17%、Rust 41%→23%、GDScript 0%→42%、Python 2%→18%。2027 年の見立て。伸ばす: Godot 4.7 でゲーム本編、Workers・D1・Durable Objects、生成AI と Blender の素材工程。続ける: Rust と Topcoat（pxlot.ai）、Claude Code 前提の開発、PostgreSQL・Docker・bun。ひと区切り: Bevy、Leptos、Tauri・Dioxus・Slint・Next.js。">
 
 <details>
 <summary>数字の出し方</summary>
@@ -24,8 +12,9 @@
 <br>
 
 - 対象は 2026/1/1〜10/14 にコミットのある 23 リポジトリ（うち非公開 16）。自分のコミットだけを数え、Copilot や bot のコミットは除いています。
-- 書いた行は `git log --numstat` の追加行と削除行の合計です。ビルド成果物、ロックファイル、自動生成ファイル、JSON などのデータは数えていません。
-- 「Web」は TypeScript, CSS, HTML, JavaScript, Astro をまとめたものです。
+- 「作っていたもの」の棒の高さは週のコミット数、右端の数字は年間の合計です。
+- 技術の行は、その技術を使うリポジトリにその週コミットがあればマスが点きます。
+- 言語の比率は `git log --numstat` の追加行と削除行の合計です。ビルド成果物、ロックファイル、自動生成ファイル、JSON などのデータは数えていません。「Web」は TypeScript, CSS, HTML, JavaScript, Astro をまとめたものです。
 
 | 言語 | 変更行 | 比率 |
 | --- | ---: | ---: |
